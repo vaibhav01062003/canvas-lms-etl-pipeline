@@ -1,0 +1,15 @@
+{
+  "id": 90001,
+  "assignment_id": 6001,
+  "user_id": 20001,
+  "attempt": 1,
+  "submitted_at": "2024-06-15T18:30:00Z",
+  "graded_at": "2024-06-16T08:00:00Z",
+  "score": 42,
+  "grade": "42",
+  "workflow_state": "graded",
+  "late": false,
+  "missing": false,
+  "excused": false,
+  "created_at": "2024-06-15T18:30:00Z"
+}

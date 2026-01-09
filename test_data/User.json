@@ -1,0 +1,15 @@
+{
+  "id": 20001,
+  "name": "Rahul Sharma",
+  "sortable_name": "Sharma, Rahul",
+  "short_name": "Rahul",
+  "login_id": "rahul.sharma",
+  "email": "rahul.sharma@abcschool.edu",
+  "sis_user_id": "STU_98765",
+  "integration_id": "INT_STU_98765",
+  "time_zone": "Asia/Kolkata",
+  "locale": "en",
+  "created_at": "2023-06-01T06:00:00Z",
+  "updated_at": "2024-11-20T10:00:00Z",
+  "workflow_state": "active"
+}
