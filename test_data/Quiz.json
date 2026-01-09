@@ -1,0 +1,14 @@
+{
+  "id": 7001,
+  "course_id": 3001,
+  "title": "Linear Equations Quiz",
+  "quiz_type": "graded_quiz",
+  "time_limit": 40,
+  "allowed_attempts": 1,
+  "points_possible": 20,
+  "shuffle_answers": true,
+  "published": true,
+  "due_at": "2024-06-15T23:59:00Z",
+  "created_at": "2024-06-05T09:00:00Z",
+  "updated_at": "2024-06-10T09:00:00Z"
+}

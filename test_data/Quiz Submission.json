@@ -1,0 +1,19 @@
+{
+  "id": 91001,
+  "quiz_id": 7001,
+  "user_id": 20001,
+  "attempt": 1,
+  "score": 18,
+  "kept_score": 18,
+  "finished_at": "2024-06-15T18:10:00Z",
+  "time_spent": 2100,
+  "submission_id": 90001,
+  "questions": [
+    {
+      "question_id": 8001,
+      "answer": "a1",
+      "correct": true,
+      "points": 2
+    }
+  ]
+}

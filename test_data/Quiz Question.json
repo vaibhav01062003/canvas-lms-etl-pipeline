@@ -1,0 +1,16 @@
+{
+  "id": 8001,
+  "quiz_id": 7001,
+  "question_name": "Solve Equation",
+  "question_text": "Solve: 2x + 5 = 13",
+  "question_type": "multiple_choice_question",
+  "points_possible": 2,
+  "position": 1,
+  "answers": [
+    {"id": "a1", "text": "x = 4", "weight": 100},
+    {"id": "a2", "text": "x = 6", "weight": 0}
+  ],
+  "correct_comments": "Correct!",
+  "incorrect_comments": "Review equation balancing",
+  "created_at": "2024-06-06T10:00:00Z"
+}
