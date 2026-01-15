@@ -1,0 +1,34 @@
+[
+  {
+    "id": "q_101",
+    "quiz_id": 7001,
+    "position": 1,
+    "interaction_type": "choice",
+    "interaction_data": {
+      "prompt": "What is 1/2 + 1/4?",
+      "choices": [
+        { "id": "a", "text": "3/4" },
+        { "id": "b", "text": "2/6" }
+      ],
+      "correct_responses": ["a"]
+    },
+    "scoring_data": { "points_possible": 1 },
+    "learning_outcome_id": 8001
+  },
+  {
+    "id": "q_102",
+    "quiz_id": 7001,
+    "position": 2,
+    "interaction_type": "choice",
+    "interaction_data": {
+      "prompt": "What is 2/5 + 1/5?",
+      "choices": [
+        { "id": "a", "text": "3/5" },
+        { "id": "b", "text": "3/10" }
+      ],
+      "correct_responses": ["a"]
+    },
+    "scoring_data": { "points_possible": 1 },
+    "learning_outcome_id": 8001
+  }
+]

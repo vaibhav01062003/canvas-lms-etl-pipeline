@@ -1,0 +1,9 @@
+[
+  { "user_id": 2001, "section_id": 9001, "type": "StudentEnrollment", "role": "Student" },
+  { "user_id": 2002, "section_id": 9001, "type": "StudentEnrollment", "role": "Student" },
+
+  { "user_id": 3001, "section_id": 9001, "type": "TeacherEnrollment", "role": "Teacher" },
+
+  { "user_id": 2001, "section_id": 9002, "type": "StudentEnrollment", "role": "Student" },
+  { "user_id": 3002, "section_id": 9002, "type": "TeacherEnrollment", "role": "Teacher" }
+]

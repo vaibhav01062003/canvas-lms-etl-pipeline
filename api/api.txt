@@ -1,0 +1,27 @@
+1️⃣ accounts (District / School / Grade)
+GET /api/v1/accounts
+GET /api/v1/accounts/:id/sub_accounts
+
+2️⃣ courses (Subjects under Grade)
+GET /api/v1/accounts/:grade_id/courses
+
+3️⃣ sections
+GET /api/v1/courses/:course_id/sections
+
+4️⃣ users
+GET /api/v1/users/:id
+
+5️⃣ enrollments
+GET /api/v1/sections/:section_id/enrollments
+
+6️⃣ quizzes (✅ New Quizzes)
+GET /api/quiz/v1/courses/:course_id/quizzes
+
+7️⃣ quiz_items (Questions)
+GET /api/quiz/v1/quizzes/:quiz_id/items
+
+8️⃣ quiz_submissions
+GET /api/quiz/v1/quizzes/:quiz_id/submissions
+
+9️⃣ outcomes (Standards)
+GET /api/v1/accounts/:grade_id/outcomes

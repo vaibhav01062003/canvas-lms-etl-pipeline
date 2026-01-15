@@ -1,0 +1,6 @@
+[
+  { "id": 2001, "name": "Rahul Sharma", "login_id": "rahul.sharma" },
+  { "id": 2002, "name": "Sneha Patel", "login_id": "sneha.patel" },
+  { "id": 3001, "name": "Anita Teacher", "login_id": "anita.teacher" },
+  { "id": 3002, "name": "Vikas Teacher", "login_id": "vikas.teacher" }
+]

@@ -1,0 +1,8 @@
+[
+  { "id": 9001, "name": "Section A", "course_id": 5001, "sis_section_id": "G4A" },
+  { "id": 9002, "name": "Section B", "course_id": 5001, "sis_section_id": "G4B" },
+
+  { "id": 9003, "name": "Section A", "course_id": 5002, "sis_section_id": "G4SCI_A" },
+
+  { "id": 9004, "name": "Section A", "course_id": 5003, "sis_section_id": "G5A" }
+]

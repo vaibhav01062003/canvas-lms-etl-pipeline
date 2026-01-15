@@ -1,0 +1,8 @@
+[
+  { "id": 5001, "name": "Math", "course_code": "G4_MATH", "account_id": 101 },
+  { "id": 5002, "name": "Science", "course_code": "G4_SCI", "account_id": 101 },
+
+  { "id": 5003, "name": "Math", "course_code": "G5_MATH", "account_id": 102 },
+
+  { "id": 6001, "name": "Math", "course_code": "G4_MATH", "account_id": 201 }
+]
