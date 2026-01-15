@@ -1,14 +1,8 @@
-{
-  "id": 3001,
-  "name": "Mathematics – Grade 8",
-  "course_code": "MATH_G8",
-  "account_id": 1001,
-  "start_at": "2024-04-01T00:00:00Z",
-  "end_at": "2025-03-31T23:59:59Z",
-  "workflow_state": "available",
-  "sis_course_id": "SUB_MATH_G8",
-  "integration_id": "INT_MATH_G8",
-  "grading_standard_id": null,
-  "created_at": "2024-03-15T09:00:00Z",
-  "updated_at": "2024-11-01T08:00:00Z"
-}
+[
+  { "id": 5001, "name": "Math", "course_code": "G4_MATH", "account_id": 101 },
+  { "id": 5002, "name": "Science", "course_code": "G4_SCI", "account_id": 101 },
+
+  { "id": 5003, "name": "Math", "course_code": "G5_MATH", "account_id": 102 },
+
+  { "id": 6001, "name": "Math", "course_code": "G4_MATH", "account_id": 201 }
+]

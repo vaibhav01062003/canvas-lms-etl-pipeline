@@ -1,19 +1,28 @@
-{
-  "id": 91001,
-  "quiz_id": 7001,
-  "user_id": 20001,
-  "attempt": 1,
-  "score": 18,
-  "kept_score": 18,
-  "finished_at": "2024-06-15T18:10:00Z",
-  "time_spent": 2100,
-  "submission_id": 90001,
-  "questions": [
-    {
-      "question_id": 8001,
-      "answer": "a1",
-      "correct": true,
-      "points": 2
-    }
-  ]
-}
+[
+  {
+    "id": 6001,
+    "quiz_id": 7001,
+    "user_id": 2001,
+    "attempt": 1,
+    "score": 2,
+    "time_spent": 60,
+    "started_at": "2026-01-10T09:30:00Z",
+    "questions": [
+      { "item_id": "q_101", "answer": "a", "score": 1 },
+      { "item_id": "q_102", "answer": "a", "score": 1 }
+    ]
+  },
+  {
+    "id": 6002,
+    "quiz_id": 7001,
+    "user_id": 2002,
+    "attempt": 1,
+    "score": 1,
+    "time_spent": 75,
+    "started_at": "2026-01-10T09:35:00Z",
+    "questions": [
+      { "item_id": "q_101", "answer": "b", "score": 0 },
+      { "item_id": "q_102", "answer": "a", "score": 1 }
+    ]
+  }
+]
