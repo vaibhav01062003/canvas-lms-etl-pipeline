@@ -13,7 +13,7 @@
       "correct_responses": ["a"]
     },
     "scoring_data": { "points_possible": 1 },
-    "learning_outcome_id": 8001
+    "learning_outcome_id": 8002
   },
   {
     "id": "q_102",
@@ -30,5 +30,69 @@
     },
     "scoring_data": { "points_possible": 1 },
     "learning_outcome_id": 8001
+  },
+  {
+    "id": "q_201",
+    "quiz_id": 7002,
+    "position": 1,
+    "interaction_type": "fill_in_blank",
+    "interaction_data": {
+      "prompt": "0.5 + 0.25 = ____",
+      "correct_responses": ["0.75"]
+    },
+    "scoring_data": { "points_possible": 1 },
+    "learning_outcome_id": 8003
+  },
+  {
+    "id": "q_301",
+    "quiz_id": 7003,
+    "position": 1,
+    "interaction_type": "matching",
+    "interaction_data": {
+      "prompt": "Match the force to its description",
+      "choices": [
+        { "id": "gravity", "text": "Pulls objects to Earth" },
+        { "id": "magnetism", "text": "Attracts metals" }
+      ],
+      "correct_responses": [
+        "{\"pair_1\":\"gravity\",\"pair_2\":\"magnetism\"}"
+      ]
+    },
+    "scoring_data": { "points_possible": 2 },
+    "learning_outcome_id": 8006
+  },
+  {
+    "id": "q_401",
+    "quiz_id": 7004,
+    "position": 1,
+    "interaction_type": "choice",
+    "interaction_data": {
+      "prompt": "What is 5 × 5?",
+      "choices": [
+        { "id": "a", "text": "25" },
+        { "id": "b", "text": "20" }
+      ],
+      "correct_responses": ["a"]
+    },
+    "scoring_data": { "points_possible": 1 },
+    "learning_outcome_id": 8004
+  },
+  {
+    "id": "q_501",
+    "quiz_id": 8001,
+    "position": 1,
+    "interaction_type": "matching",
+    "interaction_data": {
+      "prompt": "Match fraction to decimal",
+      "choices": [
+        { "id": "half", "text": "0.5" },
+        { "id": "quarter", "text": "0.25" }
+      ],
+      "correct_responses": [
+        "{\"pair_1\":\"half\",\"pair_2\":\"quarter\"}"
+      ]
+    },
+    "scoring_data": { "points_possible": 2 },
+    "learning_outcome_id": 8005
   }
 ]

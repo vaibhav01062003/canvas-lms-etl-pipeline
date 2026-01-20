@@ -3,5 +3,30 @@
     "id": 8001,
     "title": "4.NF.1",
     "short_description": "Understand fraction equivalence"
+  },
+  {
+    "id": 8002,
+    "title": "4.NF.3",
+    "short_description": "Add and subtract fractions"
+  },
+  {
+    "id": 8003,
+    "title": "4.MD.1",
+    "short_description": "Measurement and data"
+  },
+  {
+    "id": 8004,
+    "title": "5.NBT.5",
+    "short_description": "Multiply whole numbers"
+  },
+  {
+    "id": 8005,
+    "title": "5.NF.1",
+    "short_description": "Interpret division of fractions"
+  },
+  {
+    "id": 8006,
+    "title": "4.PS.2",
+    "short_description": "Forces and motion"
   }
 ]

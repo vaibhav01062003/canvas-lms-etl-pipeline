@@ -4,5 +4,7 @@
 
   { "id": 9003, "name": "Section A", "course_id": 5002, "sis_section_id": "G4SCI_A" },
 
-  { "id": 9004, "name": "Section A", "course_id": 5003, "sis_section_id": "G5A" }
+  { "id": 9004, "name": "Section A", "course_id": 5003, "sis_section_id": "G5A" },
+
+  { "id": 9005, "name": "Section A", "course_id": 6001, "sis_section_id": "SB_G4A" }
 ]

@@ -24,5 +24,65 @@
       { "item_id": "q_101", "answer": "b", "score": 0 },
       { "item_id": "q_102", "answer": "a", "score": 1 }
     ]
+  },
+
+  {
+    "id": 6003,
+    "quiz_id": 7002,
+    "user_id": 2001,
+    "attempt": 1,
+    "score": 1,
+    "time_spent": 55,
+    "started_at": "2026-01-20T09:20:00Z",
+    "questions": [
+      { "item_id": "q_201", "answer": "0.75", "score": 1 }
+    ]
+  },
+
+  {
+    "id": 6004,
+    "quiz_id": 7003,
+    "user_id": 2002,
+    "attempt": 1,
+    "score": 2,
+    "time_spent": 80,
+    "started_at": "2026-01-15T08:50:00Z",
+    "questions": [
+      {
+        "item_id": "q_301",
+        "answer": "{\"pair_1\":\"gravity\",\"pair_2\":\"magnetism\"}",
+        "score": 2
+      }
+    ]
+  },
+
+  {
+    "id": 6005,
+    "quiz_id": 7004,
+    "user_id": 2001,
+    "attempt": 1,
+    "score": 1,
+    "time_spent": 65,
+    "started_at": "2026-01-18T10:10:00Z",
+    "questions": [
+      { "item_id": "q_401", "answer": "a", "score": 1 }
+    ]
+  },
+
+  {
+    "id": 6006,
+    "quiz_id": 8001,
+    "user_id": 2002,
+    "attempt": 1,
+    "score": 2,
+    "time_spent": 50,
+    "started_at": "2026-01-22T09:40:00Z",
+    "questions": [
+      {
+        "item_id": "q_501",
+        "answer": "{\"pair_1\":\"half\",\"pair_2\":\"quarter\"}",
+        "score": 2
+      }
+    ]
   }
 ]
