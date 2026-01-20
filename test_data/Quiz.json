@@ -19,5 +19,19 @@
     "title": "Force & Motion",
     "quiz_type": "assignment",
     "due_at": "2026-01-15T09:00:00Z"
+  },
+  {
+    "id": 7004,
+    "course_id": 5003,
+    "title": "Grade 5 Math Quiz",
+    "quiz_type": "assignment",
+    "due_at": "2026-01-18T10:00:00Z"
+  },
+  {
+    "id": 8001,
+    "course_id": 6001,
+    "title": "School B Math Quiz",
+    "quiz_type": "assignment",
+    "due_at": "2026-01-22T10:00:00Z"
   }
 ]
